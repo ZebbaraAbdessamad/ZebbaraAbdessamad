@@ -1,4 +1,3 @@
-# My-Portfolio
 <h1 align="center">Hi 👋, I'm Abdessamad Zebbara</h1>
 <h3 align="center">A passionate full-stack/mobile developer from Morocco</h3>
 

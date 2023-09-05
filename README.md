@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdessamad Zebbara</h1>
-<h3 align="center">A passionate full-stack/mobile developer from Morocco</h3>
+<h3 align="center">A passionate DevOps | full-stack/mobile developer from Morocco</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdessamad-zebbara"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
